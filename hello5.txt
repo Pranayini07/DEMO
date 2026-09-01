@@ -1,2 +1,3 @@
-this is the edite file 
+this is the edited file 
 the new one is edited by me
+this line was added by my friend
